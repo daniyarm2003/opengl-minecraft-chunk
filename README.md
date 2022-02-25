@@ -4,3 +4,4 @@ This application is written in C++, and uses GLFW and GLAD to work with OpenGL (
 
 - This application draws a recreation of a Minecraft chunk, generated with the use of sinusoidal functions
 - This application renders textured voxels, and a skybox with the assistance of OpenGL and GLSL shaders
+- WASD and mouse controls enable the user to move and rotate the camera
